@@ -1,0 +1,3 @@
+python -m app.cli power 2 3
+python -m app.cli fibonacci 5
+python -m app.cli factorial 5

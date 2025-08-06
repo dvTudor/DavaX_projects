@@ -1,0 +1,1 @@
+print("The environment is working correctly!")

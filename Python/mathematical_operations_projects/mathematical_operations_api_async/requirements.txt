@@ -1,0 +1,7 @@
+pydantic
+flake8
+fastapi
+uvicorn[standard]
+aiosqlite
+aiohttp
+asyncio

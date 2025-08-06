@@ -1,0 +1,5 @@
+pydantic
+flake8
+fastapi
+uvicorn[standard]
+requests

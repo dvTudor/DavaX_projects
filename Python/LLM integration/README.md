@@ -19,7 +19,7 @@ The chatbot recommends books based on user interests (themes, keywords, or quest
 - **Bad language filter**: Politely rejects offensive input.
 - **Interfaces**:  
   - **CLI** (`app.py`) – interactive console chatbot.  
-  - **Streamlit app** (`streamlit_app.py`) – web-based UI with optional TTS, speech-to-text, and image generation (commented for optional use).
+  - **Streamlit app** (`streamlit_app.py`) – web-based UI with optional TTS, speech-to-text, and image generation (commented for optional use - pending approval for using more expensive models).
 
 ---
 

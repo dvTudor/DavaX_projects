@@ -30,6 +30,7 @@ The chatbot recommends books based on user interests (themes, keywords, or quest
 ├── streamlit_app.py      # Streamlit-based chatbot UI
 ├── rag.py                # RAG logic: embeddings, ChromaDB indexing, retrieval
 ├── tools.py              # Tool: get_summary_by_title
+├── db/                 # Database directory
 ├── data/                 # Data directory (used by tools & RAG)
 │   └── book_summaries.json
 ├── requirements.txt      # required packages

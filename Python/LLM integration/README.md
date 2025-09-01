@@ -1,7 +1,7 @@
 # Smart Librarian – RAG + Tool Completion
 
 An AI-powered book recommendation system that combines OpenAI GPT models with Retrieval-Augmented Generation (RAG) using ChromaDB.  
-The chatbot recommends books based on user interests (themes, keywords, or questions) and enriches the recommendation with a detailed summary retrieved through a custom tool.
+The chatbot recommends books based on user interests (themes, keywords, or questions) and elaborates on the recommendation with a detailed summary retrieved through a custom tool.
 
 ---
 

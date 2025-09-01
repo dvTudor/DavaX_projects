@@ -1,0 +1,62 @@
+[
+    {
+        "title": "1984",
+        "themes": ["Totalitarianism", "Freedom", "Surveillance", "Identity"],
+        "long_summary": "A dystopian story about a totalitarian society controlled by surveillance, propaganda, and thought police. Winston Smith, the protagonist, secretly rebels against the system in search of truth and freedom. As he navigates the oppressive regime, Winston struggles with his own identity and the constant threat of punishment, ultimately facing the harsh consequences of defying Big Brother in a world where individuality is crushed.",
+        "short_summary": "Winston Smith fights oppression in a surveillance-driven society."
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "themes": ["Justice", "Racism", "Empathy", "Childhood"],
+        "long_summary": "Set in the American South during the 1930s, the novel follows young Scout Finch as her father, Atticus, defends Tom Robinson, a black man falsely accused of raping a white woman. Through Scout's eyes, readers witness the deep-seated racism and injustice of the time, as well as the moral courage required to stand up for what is right. The story explores themes of empathy, childhood innocence, and the complexities of human nature.",
+        "short_summary": "Scout learns about justice and prejudice in her small town."
+    },
+    {
+        "title": "The Great Gatsby",
+        "themes": ["The American Dream", "Wealth", "Love", "Class"],
+        "long_summary": "Jay Gatsby, a mysterious millionaire, throws extravagant parties in hopes of rekindling his romance with Daisy Buchanan in 1920s America. The novel delves into the illusion of the American Dream, the pursuit of wealth, and the emptiness that often accompanies material success. Through the eyes of narrator Nick Carraway, readers explore themes of love, class, and the moral decay hidden beneath the glittering surface of the Jazz Age.",
+        "short_summary": "Gatsby chases love and status in the Roaring Twenties."
+    },
+    {
+        "title": "Pride and Prejudice",
+        "themes": ["Love", "Class", "Marriage", "Social Expectations"],
+        "long_summary": "Elizabeth Bennet, one of five sisters, navigates issues of manners, upbringing, and marriage in 19th-century England. She challenges social norms and prejudices, particularly those surrounding class and gender, as she develops a complex relationship with the proud Mr. Darcy. The novel explores the importance of personal integrity, the dangers of judging others too quickly, and the transformative power of love and understanding.",
+        "short_summary": "Elizabeth Bennet challenges norms and finds love."
+    },
+    {
+        "title": "Moby-Dick",
+        "themes": ["Obsession", "Nature", "Revenge", "Fate"],
+        "long_summary": "Captain Ahab obsessively hunts the elusive white whale, Moby Dick, risking his crew and himself in pursuit of revenge. The novel explores the destructive nature of obsession, humanity's struggle against the forces of nature, and the philosophical questions surrounding fate and free will. Through Ishmael's narration, readers are drawn into a richly detailed world of whaling, existential reflection, and the consequences of unchecked ambition.",
+        "short_summary": "Ahab's obsession with a whale leads to tragedy."
+    },
+    {
+        "title": "Brave New World",
+        "themes": ["Technology", "Control", "Individuality", "Society"],
+        "long_summary": "In a futuristic society engineered for conformity and pleasure, citizens are conditioned from birth to accept their roles and suppress individuality. Bernard Marx, feeling alienated, questions the loss of personal freedom and the cost of stability in a world where emotions and relationships are tightly controlled. The novel examines the dangers of technological advancement, the sacrifice of individuality for societal harmony, and the meaning of true happiness.",
+        "short_summary": "Bernard Marx questions a controlled, pleasure-driven world."
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "themes": ["Alienation", "Identity", "Adolescence", "Loss"],
+        "long_summary": "Holden Caulfield, a disaffected teenager, recounts his experiences in New York City after being expelled from prep school. Struggling with alienation, grief over his brother's death, and the challenges of growing up, Holden seeks authenticity in a world he perceives as phony. The novel explores the complexities of adolescence, the search for identity, and the pain of loss, capturing the voice of youth in transition.",
+        "short_summary": "Holden Caulfield struggles with growing up and isolation."
+    },
+    {
+        "title": "Jane Eyre",
+        "themes": ["Love", "Independence", "Social Class", "Morality"],
+        "long_summary": "Orphaned Jane Eyre endures hardship and mistreatment before finding employment as a governess at Thornfield Hall. There, she falls in love with the enigmatic Mr. Rochester, but must confront secrets and moral dilemmas that test her integrity. Jane's journey is one of self-discovery, as she asserts her independence and navigates the constraints of social class, ultimately seeking love and a sense of belonging.",
+        "short_summary": "Jane Eyre seeks love and independence despite adversity."
+    },
+    {
+        "title": "The Hobbit",
+        "themes": ["Adventure", "Courage", "Friendship", "Growth"],
+        "long_summary": "Bilbo Baggins, a reluctant hobbit, is swept into an epic quest with a group of dwarves to reclaim their homeland from the dragon Smaug. Along the way, Bilbo faces danger, discovers hidden reserves of courage, and forms lasting friendships. The novel celebrates the spirit of adventure, personal growth, and the importance of stepping outside one's comfort zone to achieve greatness.",
+        "short_summary": "Bilbo Baggins finds courage on a quest for treasure."
+    },
+    {
+        "title": "Crime and Punishment",
+        "themes": ["Guilt", "Redemption", "Morality", "Justice"],
+        "long_summary": "Raskolnikov, a destitute student in St. Petersburg, commits a brutal murder, believing he is justified by his theory of extraordinary individuals. Tormented by guilt and paranoia, he struggles with the moral consequences of his actions and seeks redemption. The novel delves into psychological anguish, the nature of justice, and the possibility of spiritual renewal through suffering and confession.",
+        "short_summary": "Raskolnikov faces guilt and seeks redemption after murder."
+    }
+]
